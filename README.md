@@ -1,5 +1,15 @@
 # React + Vite
 
+> React shopping cart
+
+## Build Setup
+```bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
